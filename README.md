@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python manage.py
 
 <h2>
-  <p>Para ter acesso a api http://127.0.0.1:8000/api/swagger/<p></br>
-  <p>user: admin</p></br>
+  <p>Para ter acesso a api digite no navegador http://127.0.0.1:8000/api/swagger/<p>
+  <p>user: admin</p>
   <p>password: 123</p>
 <h2/>
