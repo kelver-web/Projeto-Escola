@@ -9,11 +9,16 @@
 <li>Execute os textes</li>
 </ol>
 
-<code>
+
 git clone git@github.com/kelver-web/Projeto-Escola.git
 cd Projeto-Escola
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python manage.py
-</code>
+
+<h2>
+  <p>Para ter acesso a api http://127.0.0.1:8000/api/swagger/<p></br>
+  <p>user: admin</p></br>
+  <p>password: 123</p>
+<h2/>
