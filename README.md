@@ -18,13 +18,13 @@ pip install -r requirements.txt
 python manage.py
 
 <h2>
-  <p>Para ter acesso a api digite no navegador http://127.0.0.1:8000/api/swagger/<p>
-  <p>user: admin</p>
-  <p>password: 123</p>
+  <h6>Para ter acesso a api digite no navegador http://127.0.0.1:8000/api/swagger/<h6>
+  <h6>user: admin</h6>
+  <h6>password: 123</h6>
 <h2/>
 
 <h2>
-  <p>Para ter acesso aos endpoints vá em token e gere um novo token</p>
-  <p>Suba até Authorize e insira o token</p>
-  <p>Acesse qualquer endpoint</p>
+  <p>Para ter acesso aos endpoints vá em token e gere um novo token</h6>
+  <p>Suba até Authorize e insira o token</h6>
+  <p>Acesse qualquer endpoint</h6>
 <h2/>
