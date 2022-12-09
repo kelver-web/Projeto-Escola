@@ -1,11 +1,13 @@
 # Projeto-Escola
 <h1>Como desenvolver</h1>
-1 Clone o repositório
-2 Crie um virtualenv com python 3.8
-3 Ative o virtualenv
-4 Instale as dependências
-5 Configure a intância com o .env
-6 Execute os textes
+<ol>
+Clone o repositório
+Crie um virtualenv com python 3.8
+Ative o virtualenv
+Instale as dependências
+Configure a intância com o .env
+Execute os textes
+</ol>
 
 git clone git@github.com/kelver-web/Projeto-Escola.git
 cd Projeto-Escola
