@@ -10,12 +10,14 @@
 </ol>
 
 
-git clone git@github.com/kelver-web/Projeto-Escola.git
-cd Projeto-Escola
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py
+<ul>
+<li>git clone git@github.com/kelver-web/Projeto-Escola.git</li>
+<li>cd Projeto-Escola</li>
+<li>python -m venv venv</li>
+<li>source venv/bin/activate</li>
+<li>pip install -r requirements.txt</li>
+<li>python manage.py</li>
+</ul>
 
 <h2>
   <h6>Para ter acesso a api digite no navegador http://127.0.0.1:8000/api/swagger/<h6>
