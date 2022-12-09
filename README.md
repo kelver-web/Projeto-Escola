@@ -22,3 +22,9 @@ python manage.py
   <p>user: admin</p>
   <p>password: 123</p>
 <h2/>
+
+<h2>
+  <p>Para ter acesso aos endpoints vá em token e gere um novo token</p>
+  <p>Suba até Authorize e insira o token</p>
+  <p>Acesse qualquer endpoint</p>
+<h2/>
