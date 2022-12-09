@@ -24,7 +24,7 @@ python manage.py
 <h2/>
 
 <h2>
-  <p>Para ter acesso aos endpoints vá em token e gere um novo token</h6>
-  <p>Suba até Authorize e insira o token</h6>
-  <p>Acesse qualquer endpoint</h6>
+  <h6>Para ter acesso aos endpoints vá em token e gere um novo token</h6>
+  <h6>Suba até Authorize e insira o token</h6>
+  <h6>Acesse qualquer endpoint</h6>
 <h2/>
